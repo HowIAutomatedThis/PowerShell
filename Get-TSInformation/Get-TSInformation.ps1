@@ -50,3 +50,6 @@ Function Get-TSInformation {
     }
 }	 #End Function Get-TSInformation
 #endregion <Get-TSInformation>
+
+
+Get-TSInformation
